@@ -24,7 +24,9 @@ function Grid() {
               description={description}
               className={className}
               img={img}
+              imgClassName={imgClassName}
               spareImg={spareImg}
+              titleClassName={titleClassName}
             />
           )
         )}
